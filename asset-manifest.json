@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a74ceca.css",
+    "main.js": "/static/js/main.d5c4e28a.js",
+    "static/media/cel_logo.png": "/static/media/cel_logo.4d7389a7e8907c50cc5a.png",
+    "index.html": "/index.html",
+    "main.3a74ceca.css.map": "/static/css/main.3a74ceca.css.map",
+    "main.d5c4e28a.js.map": "/static/js/main.d5c4e28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a74ceca.css",
+    "static/js/main.d5c4e28a.js"
+  ]
+}
